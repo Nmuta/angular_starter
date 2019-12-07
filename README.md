@@ -23,5 +23,13 @@ from the root folder
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
+## Analyzing the files
+
+The 'component' file where variables are defined can be found here: 
+[./src/app/app.component.ts](./src/app/app.component.ts)
+
+and the 'html' file that accompanys that component can be found here: 
+
+[./src/app/app.component.html](./src/app/app.component.html)
 
  
